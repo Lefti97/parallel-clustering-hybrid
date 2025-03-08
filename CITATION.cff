@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vangelis"
+  given-names: "Lefteris"
+title: "parallel-clustering-hybrid"
+version: 1.0.0
+date-released: 2025-03-08
+url: "https://github.com/Lefti97/parallel-clustering-hybrid"
