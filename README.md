@@ -13,10 +13,10 @@ MPI as well as combined implementations will be developed indicatively, such as 
 MPI+OpenMP and/or using MPI+MPI Shared Memory, and corresponding comparative
 measurements and conclusions will be drawn.
 
+- Link to final document of the thesis in greek will be added.
+
 For this thesis parallel implementations were made for the clustering algorithms Kmeans and CURE.
 Further implementations of parallel clustering algorithms may be added in this repo.
-
-- Link to final document of the thesis in greek will be added.
 
 # Instructions
 
