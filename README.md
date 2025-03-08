@@ -1,4 +1,4 @@
-# parallel-clustering-hybrid
+# Hybrid Parallel Clustering Algorithms
 
 Title: 
 Development and Evaluation of Parallel Clustering Algorithms in Hybrid Enviroment using OpenMP and MPI
@@ -22,7 +22,7 @@ Further implementations of parallel clustering algorithms may be added in this r
 
 - Compile the code in src folder using Makefile
 ```
-    make
+make
 ```
 
 - How to execute:
