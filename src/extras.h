@@ -110,7 +110,7 @@ void   get_file_content();
 void   get_elements(FILE* fp, double *pointsX, double *pointsY, int *pointsClusterAssign);
 void   init_prints(FILE *stream);
 void   final_prints(double *p_clusterX, double *p_clusterY, FILE *stream);
-void   printf_to_file();
+void   printf_to_file(double *p_clusterX, double *p_clusterY);
 void   get_scatter_variables(int *sendcounts, int *displs, int elements, int start);
 void   get_scatter_variables_update_nnbs(int *sendcounts, int *displs);
 void   calc_start_end();
